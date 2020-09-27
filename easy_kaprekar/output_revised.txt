@@ -1,0 +1,3 @@
+
+testIsKaprekar=true
+testIsKaprekar=true
